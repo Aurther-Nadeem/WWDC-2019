@@ -1,3 +1,3 @@
-# WWDC-2019
+# My WWDC19 Scholarship Submission - Accepted :)
 
-Hey, Welcome to my WWDC 2019 Scholarship Entry. I initially had no idea what to make for my submission, however, I was walking to school and I saw
+Hey, Welcome to my WWDC 2019 Scholarship Entry. This playground uses UIKit, SceneKit, ARKit, Playground Support, AVFoundation and Core Animation.
